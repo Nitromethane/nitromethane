@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Ryan!👋
+
+- ⚡ JavaScript
+- 🏃 Runing / Cycling
+
+### The 2023 Plan List
+- [ ] (Reading Harry Potter 4-7)
+- [ ] (Learning Typescript)
+- [ ] (LeetCode Hot 100)
+- [ ] (Began To Writing Some Blog)
 
 <!--
 **Nitromethane/nitromethane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
