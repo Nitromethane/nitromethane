@@ -4,10 +4,11 @@
 - 🏃 Runing / Cycling
 
 ### The 2023 Plan List
-- [ ] (Reading Harry Potter 4-7)
-- [ ] (Learning Typescript)
-- [ ] (LeetCode Hot 100)
-- [ ] (Began To Writing Some Blog)
+- [ ] Improve Engling Reading Skill: Reading Harry Potter 4-7
+- [ ] Try To Reading Some English Edition CS Book
+- [ ] Learning Typescript And Using TS in Program
+- [ ] Do some Algorithm Exercise
+- [ ] Began To Writing Some Blog
 
 <!--
 **Nitromethane/nitromethane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
